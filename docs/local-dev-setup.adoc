@@ -22,7 +22,7 @@ This document is applicable for developers *onboarding* to the project. It does 
 |Required to run the application
 |===
 
-== Setup Procedure
+== Setup procedure
 * *Clone* the repository.
 * *Install* dependencies.
 * *Configure* environment variables.
