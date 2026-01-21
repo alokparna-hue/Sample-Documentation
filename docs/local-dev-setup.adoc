@@ -23,10 +23,10 @@ This document is applicable for developers *onboarding* to the project. It does 
 |===
 
 == Setup procedure
-* *Clone* the repository.
-* *Install* dependencies.
-* *Configure* environment variables.
-* *Start* the application.
+* *Clone* the repository
+* *Install* dependencies
+* *Configure* environment variables
+* *Start* the application
 
 == Verification
 *Confirm* that the application starts without any errors.
