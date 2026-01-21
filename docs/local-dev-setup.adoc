@@ -1,1 +1,36 @@
-sample text
+= Local Development Setup
+:toc:
+:toclevels: 2
+:sectnums:
+
+== Purpose
+This document describes the steps required to set up a *local development environment*.
+
+== Scope
+This document is applicable for developers *onboarding* to the project. It does not cover production deployment.
+
+== Prerequisites
+|===
+| *Component* | *Version* | *Notes*
+
+| Git
+| Latest
+| Required for source control
+
+|Node.js
+|18.x
+|Required to run the application
+|===
+
+== Setup Procedure
+* *Clone* the repository.
+* *Install* dependencies.
+* *Configure* environment variables.
+* *Start* the application.
+
+== Verification
+*Confirm* that the application starts without any errors.
+
+NOTE: _Ensure all prerequisites are installed before beginning._
+
+WARNING: _Do not commit environment files to version control._
