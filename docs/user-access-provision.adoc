@@ -10,14 +10,18 @@ This document standardizes access provision for all eligible associates and cont
 This document is applicable for IT admins and support engineers. This does not cover access provison for external websites or applications.
 
 == Definitions
+The following table describes the terms used in the document.
 |===
-| *Term* | *Version* |
+| *Term* | *Description* |
 
-| Git
-| Latest
+| IAM
+| Identity and Access Management refers to the process of managing user identities and system-access controls.
 
-|Node.js
-|18.x
+|Requestor
+|This refers to the associate who has requested access to any system or application.
+
+|Approver
+|This refers to the admin (associate) who approves and grants access to the requested application.
 |===
 
 == Setup procedure
