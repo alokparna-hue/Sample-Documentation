@@ -1,0 +1,35 @@
+= Local Development Setup
+:toc:
+:toclevels: 2
+:sectnums:
+
+== Purpose
+This document standardizes access provision for all eligible associates and contains the steps necessary to provide, revoke or reassign access to ABC's internal applications.
+
+== Scope
+This document is applicable for IT admins and support engineers. This does not cover access provison for external websites or applications.
+
+== Definitions
+|===
+| *Term* | *Version* |
+
+| Git
+| Latest
+
+|Node.js
+|18.x
+|===
+
+== Setup procedure
+* *Clone* the repository
+* *Install* dependencies
+* *Configure* environment variables
+* *Start* the application
+
+== Verification
+*Confirm* that the application starts without any errors.
+
+NOTE: _Ensure all prerequisites are installed before beginning._
+
+WARNING: _Do not commit environment files to version control._
+
