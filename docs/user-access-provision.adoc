@@ -12,7 +12,7 @@ This document is applicable for IT admins and support engineers. This does not c
 == Definitions
 The following table describes the terms used in the document.
 |===
-| *Term* | *Description* |
+| *Term* | *Description*
 
 | IAM
 | Identity and Access Management refers to the process of managing user identities and system-access controls.
