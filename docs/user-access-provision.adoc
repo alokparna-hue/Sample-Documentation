@@ -4,7 +4,7 @@
 :sectnums:
 
 == Purpose
-This document standardizes access provision for all eligible associates and contains the steps necessary to provide, revoke or reassign access to ABC's internal applications.
+This standard operating procedure (SOP) standardizes access provision for all eligible associates and contains the steps necessary to provide, revoke or reassign access to ABC's internal applications.
 
 == Scope
 This document is applicable for IT admins and support engineers. This does not cover access provison for external websites or applications.
@@ -21,19 +21,24 @@ The following table describes the terms used in the document.
 |This refers to the associate who has requested access to any system or application.
 
 |Approver
-|This refers to the admin (associate) who approves and grants access to the requested application.
+|This refers to the designated approver (associate) who approves and grants access to the requested application.
 |===
 
-== Setup procedure
-* *Clone* the repository
-* *Install* dependencies
-* *Configure* environment variables
-* *Start* the application
+== Roles and Responsibilities
+The following table lists the roles and responsibilities of the associates involved in access provisioning.
+|===
+| *Role* | *Responsibility* | *Restrictions*
 
-== Verification
-*Confirm* that the application starts without any errors.
+|Requestor
+|*Requests* access to necessary applications and *provides* justification for access.
+|*Cannot* approve any requests.
 
-NOTE: _Ensure all prerequisites are installed before beginning._
+|Approver
+|*Approves* the access requests and grants access. _For example_, a manager or an admin.
+|*Cannot* approve requests without any valid business justification.
 
-WARNING: _Do not commit environment files to version control._
+|IT administrator
+|*Authorizes*, *reviews*, *documents*, and *manages* the user access provision processes.
+|*Cannot* grant access without approvals or deviate from the SOP.
+|===
 
