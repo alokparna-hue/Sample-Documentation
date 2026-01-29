@@ -24,7 +24,7 @@ The following table describes the terms used in the document.
 |This refers to the designated approver (associate) who approves and grants access to the requested application.
 |===
 
-== Roles and Responsibilities
+== Roles and responsibilities
 The following table lists the roles and responsibilities of the associates involved in access provisioning.
 |===
 | *Role* | *Responsibility* | *Restrictions*
@@ -42,3 +42,15 @@ The following table lists the roles and responsibilities of the associates invol
 |*Cannot* grant access without approvals or deviate from the SOP.
 |===
 
+== Prerequisites
+* *Employee status* - *Ensure* to check if the requestor has an active and valid presence in the organization.
+* *Formal access request* - *Ensure* to *only* accept requests that are submitted using the internal portal. Do not approve requests that are shared through any other channels.
+* *Completion of security training* - *Ensure* that the requestor has completed the security training before granting access.
+
+== Procedure
+*Phase 1. Access Request Initiation*
+
+The following steps are performed by the requestor.
+
+. *Submit* an access request through the internal portal.
+. *Add* the business justification and manager's name for the access request.
