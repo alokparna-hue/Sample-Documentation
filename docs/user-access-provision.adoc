@@ -54,3 +54,33 @@ The following steps are performed by the requestor.
 
 . *Submit* an access request through the internal portal.
 . *Add* the business justification and manager's name for the access request.
+
+*Phase 2. Access Review and Approval*
+
+The following steps are performed by the approver.
+
+. *Review* the access request.
+. *Verify* the business justification provided by the requestor.
+. *Approve* or *reject* the request.
+
+*Phase 3. Access Provisioning*
+
+The following steps are performed by the IT administrator.
+
+. *Review* the approver's approved request.
+. *Enable* access per the scope of the request.
+. *Document* access details in the internal tracking system.
+
+*Phase 4. Confirmation*
+
+The following steps are performed by the IT administrator and requestor.
+
+. *Notify* the approver and requestor of the access provision (administrator).
+. *Confirms* access and reports any issues (requestor).
+
+*Exception Handling*
+
+The following steps are mandatory when dealing with exception cases.
+
+* *Escalate* the request for review if it does not follow the standard protocols.
+* *Define a timeline and document* temporary or emergency access requests.
