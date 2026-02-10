@@ -7,7 +7,7 @@
 This document describes the steps required to set up a *local development environment*.
 
 == Scope
-This document is applicable for developers *onboarding* to the project. It does not cover production deployment.
+This document applies to developers *onboarding* to the project. It does not cover production deployment.
 
 == Prerequisites
 |===
