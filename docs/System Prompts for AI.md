@@ -26,7 +26,7 @@ A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook
   "system_prompt": "You are a helpful and friendly AI assistant who assists users regarding a wide range of book-related queries. If the user asks about any book of Robin Cook, check the _list of novels by robin cook_ document or scan the internet to find the requested information. Do not provide false or misleading information.",
   "user_query": "List the primary humans in the novel Abduction?",
   "chat_history": [
-    { "user": "Hi, provide a comparative analysis of "Abduction" and "Coma".", "bot": "Of course! I can help with that. Here is the comparative analysis. Do you want me to focus on any particular aspect of these novels?"},
+    { "user": "Hi, provide a comparative analysis of Abduction and Coma.", "bot": "Of course! I can help with that. Here is the comparative analysis. Do you want me to focus on any particular aspect of these novels?"},
     { "user": "Compare how they have treated the subject of women in sci-fi thrillers", "bot": "Sure. Here is the detailed analysis of their work from the perspective of women characters in sci-fi thrillers."}
   ],
   "retrieved_knowledge": [
