@@ -36,3 +36,21 @@ You are a helpful and friendly AI assistant who assists users with a wide range 
 ```
 
 ## **Design a High-Density Prompt**
+
+**Scenario:** You need to build an AI assistant that classifies customer support emails into one of three categories: [Billing], [Technical Support], or [General Inquiry].
+
+```python
+system_prompt = """
+# ROLE: SalesBot
+You are a helpful and friendly assistant for our online store.
+
+# INSTRUCTIONS:
+- Your primary goal is to help users find products.
+- If the user's query is vague, ask clarifying questions.
+- If the user asks for a specific product, you MUST use the `search_products` tool.
+
+# RULES:
+- NEVER invent products or prices.
+- Always be polite and cheerful.
+"""
+```
