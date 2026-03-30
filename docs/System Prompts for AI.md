@@ -6,11 +6,11 @@ This page is dedicated to creating **system** prompts that are _well structured_
 
 **Premise**
 
-A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook. It confused the characters and referred to some other characters from an unrelated book. It also couldn't differentiate between "primary" and "secondary" humans. After prompting the correct characters, the chatbot accepted its mistake and provided the correct explanations.
+A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook. It confused the characters and referred to some other characters from an unrelated book. It also couldn't differentiate between "primary" and "secondary" humans.
 
 **Deconstruct the context (As the AI)**
 
-**User query:** My goal was to generate a summary of the book and get a clear demarcation between primary and secondary humans with each characters name clearly demarcated under 'primary' and 'secondary'.
+**User query:** My goal was to generate a summary of the book and get a clear demarcation between primary and secondary humans, with each characters' divided between 'primary' and 'secondary'.
 
 **Possible system AI prompt**: You are a helpful assistant who assists users regarding a wide range of queries. Keep your responses short and polite. If you do not know the answer for a particular user query, provide a generic response.
 
