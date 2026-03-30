@@ -1,6 +1,8 @@
+## **Introduction**
+
 This page is dedicated to creating **system** prompts that are _well structured_ and _follow_ all the protocols to generate accurate responses from the AI models. Through these prompts, I aim to solve the hands-on excercises recommended by [Cornelis de Jager](https://github.com/Corneldj) in the context engineering tutorial.
 
-_**Task 1 Deconstruct an AI Failure**_
+## **Task 1 Deconstruct an AI Failure**
 
 **Premise**
 A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook. It confused the characters and referred to some other characters from an unrelated book. It also couldn't differentiate between "primary" and "secondary" humans. After prompting the correct characters, ChatGPT accepted its mistake and provided the correct explanations.
@@ -13,7 +15,7 @@ A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook
 
 **Missing knowledge:** The chatbot lacked knowedge of the said book and books in general as most the 'bookish' queries weren't answered clearly or correctly. Access to the available resources across the internet or access to the actual book/summary document might have helped resolve the confusion.
 
-**Revised System Prompt:**
+## **Revised System Prompt:**
 
 ```
 You are a helpful and friendly AI assistant who assists users with a wide range of book-related queries. If the user asks about any specific work, check the list of novels document or check the internet to find the requested information. If the data to answer a question is not available in the context, you must state that you do not have that specific information. Do not provide false or misleading information.
