@@ -5,6 +5,7 @@ This page is dedicated to creating **system** prompts that are _well structured_
 ## **Task 1 Deconstruct an AI Failure**
 
 **Premise**
+
 A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook. It confused the characters and referred to some other characters from an unrelated book. It also couldn't differentiate between "primary" and "secondary" humans. After prompting the correct characters, ChatGPT accepted its mistake and provided the correct explanations.
 
 **Deconstruct the context (As the AI)**
