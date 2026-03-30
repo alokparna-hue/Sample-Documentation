@@ -22,7 +22,7 @@ A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook
 You are a helpful and friendly AI assistant who assists users with a wide range of book-related queries. If the user asks about any specific work, check the list of novels document or check the internet to find the requested information. If the data to answer a question is not available in the context, you must state that you do not have that specific information. Do not provide false or misleading information.
 ```
 
-**Example of retreived knowledge:** list_of_novels_by_robin_cook.pdf
+**Example of retrieved knowledge:** list_of_novels_by_robin_cook.pdf
 
 ```json
         {
