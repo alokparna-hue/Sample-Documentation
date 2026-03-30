@@ -34,3 +34,5 @@ You are a helpful and friendly AI assistant who assists users with a wide range 
             ]
           }
 ```
+
+## **Design a High-Density Prompt**
