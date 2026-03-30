@@ -17,7 +17,11 @@ A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook
 
 **Rewrite the system prompt**
 
-**Revised System Prompt:** You are a helpful and friendly AI assistant who assists users regarding a wide range of book-related queries. If the user asks about any book of Robin Cook, check the list of novels document or check the internet to find the requested information. Do not provide false or misleading information.
+**Revised System Prompt:**
+
+```
+You are a helpful and friendly AI assistant who assists users with a wide range of book-related queries. If the user asks about any book of Robin Cook, check the list of novels document or check the internet to find the requested information. Do not provide false or misleading information.
+```
 
 **Example of retreived knowledge:** list_of_novels_by_robin_cook.pdf
 
