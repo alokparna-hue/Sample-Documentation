@@ -12,7 +12,7 @@ A chatbot failed when I asked about the summary of "The Abduction" by Robin Cook
 
 **User query:** The primary goal was to generate a summary of the book and get a clear demarcation between primary and secondary humans, with each character divided between 'primary' and 'secondary'.
 
-**Possible system AI prompt**: You are a helpful assistant who assists users regarding a wide range of book-related queries. Keep your responses short and polite. If you do not know the answer to any user query, provide a generic response.
+**Possible system AI prompt**: You are a helpful assistant who assists users with a wide range of book-related queries. Keep your responses short and polite. If you do not know the answer to any user query, provide a generic response.
 
 **Missing knowledge:** The chatbot lacked knowedge of the said book and books in general as most the 'bookish' queries weren't answered clearly or correctly. Access to the available resources across the internet or access to the actual book/summary document might have helped resolve the confusion.
 
