@@ -10,6 +10,7 @@ Sytem prompts define the **behavior**, **tone**, and **output format** of AI age
 - **Accurate** and **hallucination-free** responses
 
 ## **Prompt Example**
+
 **Agent Goal**
 
  **Scenario:** Review and provide feedback on GitHub Wiki pages and repository content.
@@ -43,3 +44,20 @@ Your primary goal is to review and provide feedback on GitHub Wiki pages and rep
 
 """
 ```
+
+## Design Decisions
+
+- **Limited response to 1 paragraph and 1 bulleted list:**  
+  This ensures that the responses are concise, structured, and prevents overly verbose responses.
+
+- **Maximum 3 bullet points:**
+  This ensures that the responses are clear, concise, and does not overwhelm the users.
+
+- **Access limited to read-only:**  
+  This ensures that the agent can only read and review the content instead of modifying anything.
+
+- **Defined evaluation criteria (clarity, readability, conciseness, technical accuracy, grammar):**  
+  This ensures that the responses include detailed feedback on the documentation quality.
+
+- **Defined rule against false information:**
+  This ensures that the responses are free from hallucination and inaccurate content.
