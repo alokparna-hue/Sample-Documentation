@@ -1,9 +1,14 @@
-This is a sytem prompt that I have created to be used for an AI agent.
+
+## Overview
+
+This article demonstrates how I have designed a structured system prompt for an AI agent that reviews GitHub documentation. The prompt defines the ragent's role, provides instructions, defines the output format, and adds safety rules to ensure consistent and reliable responses.
+
+## System Prompt: Importance
 
 ## **Prompt**
 **Agent Goal**
 
-  **Scenario:** Review and provide feedback on GitHub Wiki pages and repository content.
+ **Scenario:** Review and provide feedback on GitHub Wiki pages and repository content.
 
 ```python
 system_prompt = """
