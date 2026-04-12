@@ -5,7 +5,11 @@ This article demonstrates how I have designed a structured system prompt for an 
 
 ## System Prompt: Importance
 
-## **Prompt**
+Sytem prompts define the **behavior**, **tone**, and **output format** of AI agents. A well-defined prompt helps the agent provide:
+- **Consistent** and **controlled** responses
+- **Accurate** and **hallucination-free** responses
+
+## **Prompt Example**
 **Agent Goal**
 
  **Scenario:** Review and provide feedback on GitHub Wiki pages and repository content.
@@ -29,5 +33,13 @@ Your primary goal is to review and provide feedback on GitHub Wiki pages and rep
 
 # OUTPUT FORMAT:
 - Return _only_ 1 paragraph and 1 bulleted list.
+
+# EXAMPLE:
+**INPUT**
+"Review this Wiki page content. Here is the URL..."
+
+**OUTPUT**
+<Your structured response>
+
 """
 ```
