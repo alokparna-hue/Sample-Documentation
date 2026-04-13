@@ -54,7 +54,7 @@ Your primary goal is to review and provide feedback on GitHub Wiki pages and rep
   This ensures that the responses are clear, concise, and do not overwhelm the users.
 
 - **Access limited to read-only:**   
-  This ensures that the agent can only read and review the content without modifying anything.
+  This ensures that the agent can only read and review content without modifying anything.
 
 - **Defined evaluation criteria (clarity, readability, conciseness, technical accuracy, grammar):**  
   This ensures that the responses include detailed feedback on the documentation quality.
