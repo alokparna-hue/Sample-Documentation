@@ -50,11 +50,11 @@ Your primary goal is to review and provide feedback on GitHub Wiki pages and rep
 - **Limited response to 1 paragraph and 1 bulleted list:**  
   This ensures that the responses are concise, structured, and prevents overly verbose responses.
 
-- **Maximum 3 bullet points:** 
+- **Maximum 3 bullet points:**  
   This ensures that the responses are clear, concise, and do not overwhelm the users.
 
 - **Access limited to read-only:**   
-  This ensures that the agent can only read and review the content instead of modifying anything.
+  This ensures that the agent can only read and review the content without modifying anything.
 
 - **Defined evaluation criteria (clarity, readability, conciseness, technical accuracy, grammar):**  
   This ensures that the responses include detailed feedback on the documentation quality.
