@@ -1,11 +1,11 @@
 
 ## Overview
 
-This article demonstrates how I have designed a structured system prompt for an AI agent that reviews GitHub documentation. The prompt defines the ragent's role, provides instructions, defines the output format, and adds safety rules to ensure consistent and reliable responses.
+This article demonstrates how I have designed a structured system prompt for an AI agent that reviews GitHub documentation. The prompt defines the agent's role, provides instructions, defines the output format, and adds safety rules to ensure consistent and reliable responses.
 
 ## System Prompt: Importance
 
-Sytem prompts define the **behavior**, **tone**, and **output format** of AI agents. A well-defined prompt helps the agent provide:
+Sytem prompts define the **behavior**, **tone**, and **output format** of AI responses. A well-defined prompt helps the agent provide:
 - **Consistent** and **controlled** responses
 - **Accurate** and **hallucination-free** responses
 
@@ -51,7 +51,7 @@ Your primary goal is to review and provide feedback on GitHub Wiki pages and rep
   This ensures that the responses are concise, structured, and prevents overly verbose responses.
 
 - **Maximum 3 bullet points:** 
-  This ensures that the responses are clear, concise, and does not overwhelm the users.
+  This ensures that the responses are clear, concise, and do not overwhelm the users.
 
 - **Access limited to read-only:**   
   This ensures that the agent can only read and review the content instead of modifying anything.
