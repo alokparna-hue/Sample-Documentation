@@ -1,5 +1,5 @@
 ## Introduction
-This is a practice page dedicated to explore the varied features of Markdown. 
+This is a practice page dedicated to explore the various features of Markdown. 
 
 ## Tables
 
